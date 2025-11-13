@@ -1,4 +1,4 @@
-<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://top.gg/bot/623481583411658753"><img src="https://i.pinimg.com/1200x/91/9d/6d/919d6d19c555ba7635c2bf005824c073.jpg" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -49,7 +49,7 @@ Hi 👋, I am **Gii** an enthusiastic and ambitious full stack developer, CPO at
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="https://i.pinimg.com/736x/45/64/a1/4564a16c12e924321f388209366ef4a4.jpg"/>
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
